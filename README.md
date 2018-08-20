@@ -22,6 +22,15 @@ Projeto desenvolvido para criar QRCodes utilizando APIs com NodeJS, este projeto
 * [Node](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions) - interpretador de código JavaScript que funciona do lado do servidor
 * [Express](http://expressjs.com/) - O Express é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
 
+## Authors
+
+* **Daniel Keyti Morita** - *Initial work* - [DKM](https://github.com/danieldkm)
+
+## License
+
+Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE - veja o [LICENSE.md](LICENSE.md)
+
+
 <!-- ## Contribuição
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -30,13 +39,5 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
-
-* **Daniel Keyti Morita** - *Initial work* - [DKM](https://github.com/danieldkm)
-
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
-
+-->
