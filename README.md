@@ -28,7 +28,7 @@ Projeto desenvolvido para criar QRCodes utilizando APIs com NodeJS, este projeto
 
 ## License
 
-Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE - veja o [LICENSE.md](LICENSE.md)
+Este projeto está licenciado sob a GNU GENERAL PUBLIC LICENSE - veja o [LICENSE.md](LICENSE)
 
 
 <!-- ## Contribuição
