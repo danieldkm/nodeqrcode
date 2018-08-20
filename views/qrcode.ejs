@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><%= title %></title>
+	<link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body onload="teste()">
+	
+	<a href="/qrcode/img">teste</a>
+
+	<div id="canvas">
+	</div>
+	<img id="container" src="/images/QRCode/3.png">
+
+	</img>
+	
+	<!-- <script src="/qrcode/qrcode.js"></script> -->
+	<script>
+		// function hexToBase64(str) {
+  //   		return btoa(String.fromCharCode.apply(null, str.replace(/\r|\n/g, "").replace(/([\da-fA-F]{2}) ?/g, "0x$1 ").replace(/ +$/, "").split(" ")));
+		// }
+
+		function teste(){
+			// var obj = document.getElementById('obj');
+			// var container = document.getElementById('container');
+			// container.src = '/images/testeeeee.png';//'data:image/jpeg;base64,' + hexToBase64('');
+		}
+		// var container = document.getElementById('container');
+		// function teste(){
+		// 	<%=
+		// 		QRCode.toString('http://www.google.com', function (err, string) {
+		// 			if (err) throw err
+		// 	%>
+
+		// 			var container = document.getElementById('container');
+		// 			// container.src = string;
+		// 			console.log(container);
+		// 	<%=
+		// 		});
+		// 	%>
+		// }
+		
+	</script>
+</body>
+</html>
