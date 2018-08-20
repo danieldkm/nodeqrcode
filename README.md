@@ -1,4 +1,4 @@
-# Crição de QRCode em lote personalizado.
+# Criação de QRCode em lote personalizado.
 
 Projeto desenvolvido para criar QRCodes utilizando APIs com NodeJS, este projeto gera as imagens acessando a rota corretamente e gera também PDFs dessas imagens geradas.
 
@@ -6,7 +6,7 @@ Projeto desenvolvido para criar QRCodes utilizando APIs com NodeJS, este projeto
 
 1. Faça o clone deste projeto com `git clone https://github.com/danieldkm/nodeqrcode.git`.
 2. Instalar o Node de preferência a última versão.
-3. Atualize para a ultima versão do npm caso necessário - `npm npm install npm@latest -g`.
+3. Atualize para a ultima versão do npm (opcional) - `npm npm install npm@latest -g`.
 4. Entre na pasta do projeto e instale as dependências com `npm install`.
 5. Rode a aplicação com `npm start`.
 
@@ -17,12 +17,10 @@ Projeto desenvolvido para criar QRCodes utilizando APIs com NodeJS, este projeto
 3. Abra o browser e visite a página `http://localhost:3000/pdf`
 
 ## Desenvolvimento
-
-Para iniciar instale abaixo;
-
 ## Construído com
 
 * [Node](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions) - interpretador de código JavaScript que funciona do lado do servidor
+* [Express](http://expressjs.com/) - O Express é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
 
 <!-- ## Contribuição
 
